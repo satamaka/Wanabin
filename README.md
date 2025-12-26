@@ -9,7 +9,7 @@ Just run make:
 $ make
 
 ## Contribution
-I'm just playing around for now. 
+I'm just playing around for now. (Sorry for my dirty code.😢)
 
 If you find bugs, you can tell me, but I might not fix them immediately.
 
