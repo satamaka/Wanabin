@@ -15,3 +15,5 @@
 - [x] **pwd**: Retrieves current directory path.
 
 - [x] **true**: POSIX compliant. 
+
+- [x] **tty**: Basic functionality.
