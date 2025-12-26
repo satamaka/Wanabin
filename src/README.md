@@ -4,7 +4,9 @@
 
 - [x] **echo**: Basic functionality. Supports `-n` flag.
 
-- [x] **false**: POSIX compliant. Returns `EXIT_FAILURE`.
+- [x] **false**: POSIX compliant. 
+
+- [x] **logname**: POSIX compliant. (Note: some known issues remain).
 
 - [ ] **ls**: TBD
 
@@ -12,4 +14,4 @@
 
 - [x] **pwd**: Retrieves current directory path.
 
-- [x] **true**: POSIX compliant. Returns `EXIT_SUCCESS`.
+- [x] **true**: POSIX compliant. 
