@@ -8,6 +8,7 @@
 
 static void do_cat(FILE *fp);
 
+
 int main(int argc, char *argv[])
 {
     FILE *fp;
