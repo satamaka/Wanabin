@@ -1,4 +1,4 @@
-# wanabins
+# Wanabin
 Building my own /bin tools, one by one.
 
 A work in progress. It currently only features 'cat', but more tools are on the way.
