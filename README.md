@@ -25,7 +25,7 @@ I'm writing this step by step to understand how things work under the hood.
 
 - [x] **echo**: Basic functionality implemented. Supports `-n` flag.
 
-- [x] **pwd**: Retrieves the current directory path (handles both logical and physical paths).
+- [x] **pwd**: Retrieves the current directory path.
 
 - [ ] **mkdir**: TBD
 
