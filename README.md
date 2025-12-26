@@ -23,4 +23,4 @@ Note: Please be respectful. Abusing or insulting others will not be tolerated.
 I'm writing this step by step to understand how things work under the hood.
 
 ## Status
-Development progress is tracked in [src/README.md](src/README.md).
+Development progress is tracked in [src/README.md](./src/README.md).
