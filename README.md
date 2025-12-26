@@ -1,7 +1,7 @@
 # Wanabin
 Building my own /bin tools, one by one.
 
-A work in progress. It currently only features `cat`, but more tools are on the way.
+A work in progress. It currently features `cat` and `echo`, with more tools are on the way.
 
 ## Build
 Just run make:
@@ -21,8 +21,12 @@ Note: Please be respectful. Abusing or insulting others will not be tolerated.
 I'm writing this step by step to understand how things work under the hood.
 
 ## Status
-- [x] cat: Basic functionality implemented. Supports reading from files and standard input (stdin).
+- [x] **cat**: Basic functionality implemented. Supports reading from files and standard input (stdin).
 
-- [ ] echo: TBD
+- [x] **echo**: Basic functionality implemented. Supports `-n` flag.
 
-- [ ] ls: TBD
+- [ ] **ls**: TBD
+
+- [ ] **pwd**: TBD
+
+- [ ] **mkdir**: TBD
