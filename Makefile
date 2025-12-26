@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -O2
 
-TARGETS = cat echo false pwd true
+TARGETS = cat echo false logname pwd true
 
 all: $(TARGETS)
 
