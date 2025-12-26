@@ -1,7 +1,7 @@
 # Wanabin
 Building /bin tools, one by one.
 
-A work in progress. It currently features `cat` and `echo`, with more tools are on the way.
+A work in progress. It currently features `cat`, `echo` and `pwd`, with more tools are on the way.
 
 ## Build
 Just run make:
@@ -25,8 +25,8 @@ I'm writing this step by step to understand how things work under the hood.
 
 - [x] **echo**: Basic functionality implemented. Supports `-n` flag.
 
-- [ ] **ls**: TBD
-
-- [ ] **pwd**: TBD
+- [x] **pwd**: Retrieves the current directory path (handles both logical and physical paths).
 
 - [ ] **mkdir**: TBD
+
+- [ ] **ls**: TBD
