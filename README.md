@@ -1,5 +1,5 @@
 # Wanabin
-Building my own /bin tools, one by one.
+Building /bin tools, one by one.
 
 A work in progress. It currently features `cat` and `echo`, with more tools are on the way.
 
