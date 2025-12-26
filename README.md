@@ -23,12 +23,4 @@ Note: Please be respectful. Abusing or insulting others will not be tolerated.
 I'm writing this step by step to understand how things work under the hood.
 
 ## Status
-- [x] **cat**: Basic functionality implemented. Supports reading from files and standard input (stdin).
-
-- [x] **echo**: Basic functionality implemented. Supports `-n` flag.
-
-- [x] **pwd**: Retrieves the current directory path.
-
-- [ ] **mkdir**: TBD
-
-- [ ] **ls**: TBD
+Development progress is tracked in [src/STATUS.md](src/STATUS.md).
