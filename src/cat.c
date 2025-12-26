@@ -1,5 +1,5 @@
 /*
- * wanabin - cat.c
+ * Wanabin - cat.c
  * Copyright (c) 2025 Satamaka
  */
 
