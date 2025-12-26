@@ -1,5 +1,5 @@
 /*
- * wanabin - echo.c
+ * Wanabin - echo.c
  * Copyright (c) 2025 Satamaka
  */
 
