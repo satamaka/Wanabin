@@ -1,10 +1,11 @@
 # Wanabin
 Building /bin tools, one by one.
 
-A work in progress. It currently features `cat`, `echo` and `pwd`, with more tools are on the way.
+A collection of POSIX-style core utilities (cat, pwd, etc.) re-implemented in C language.
+
 
 ## Build
-Just run make:
+Just run :
 
 ```$ make```
 
