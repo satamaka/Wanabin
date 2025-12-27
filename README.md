@@ -23,4 +23,8 @@ Note: Please be respectful. Abusing or insulting others will not be tolerated.
 I'm writing this step by step to understand how things work under the hood.
 
 ## Status
-Development progress is tracked in [src/README.md](./src/README.md).
+Development progress:
+- **Total commands planned:** 7 / 164
+- **POSIX-compliant commands:** 3
+
+For more details on each command, please refer to [src/README.md](src/README.md).
