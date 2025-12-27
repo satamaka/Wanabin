@@ -1,38 +1,44 @@
 # Project Status
 
-This list tracks the implementation status of each command. 
+This list tracks the implementation status of each command using a 5-level maturity scale.
 
 ### Legend
-- [ ] **TBD**: To Be Done. Not yet started.
+- [ ] **Level 0: TBD** - Not yet started.
 
-- [x] **Basic functionality**: Works as expected but may not support all POSIX options.
+- [x] **Level 1: Minimal** - Bare minimum logic. May lack error handling or standard outputs.
 
-- [x] **POSIX compliant**: Fully meets the IEEE Std 1003.1 (POSIX) specifications.
+- [x] **Level 2: Basic** - Works for standard use cases, but missing most flags/options.
 
-- **Note**: Known issues or specific details are mentioned in parentheses.
+- [x] **Level 3: Intermediate** - Supports common flags/options used in daily tasks.
+
+- [x] **Level 4: Near-POSIX** - Almost compliant, but lacks edge-case handling or specific POSIX flags.
+
+- [x] **Level 5: POSIX Compliant** - Fully meets the IEEE Std 1003.1 (POSIX) specifications.
 
 ---
 
-- [x] **cat**: Basic functionality. Supports reading from files and stdin.
+### Command List
 
-- [x] **echo**: Basic functionality. Supports `-n` flag.
+- [x] **cat**: **Level 2** - Supports reading from files and stdin.
 
-- [x] **false**: POSIX compliant. 
+- [x] **echo**: **Level 3** - Supports `-n` flag.
 
-- [x] **hostname**: Basic functionality.
+- [x] **false**: **Level 5** - POSIX compliant.
 
-- [x] **logname**: POSIX compliant. (Note: some known issues remain).
+- [x] **hostname**: **Level 2** - Basic functionality.
 
-- [ ] **ls**: TBD
+- [x] **logname**: **Level 4** - Near-POSIX (Note: known issues with `getlogin()`).
 
-- [ ] **mkdir**: TBD
+- [ ] **ls**: **Level 0** - TBD.
 
-- [x] **pwd**: Retrieves current directory path.
+- [ ] **mkdir**: **Level 0** - TBD.
 
-- [x] **sleep**: Basic functionality.
+- [x] **pwd**: **Level 3** - Retrieves current directory path.
 
-- [x] **true**: POSIX compliant. 
+- [x] **sleep**: **Level 2** - Basic functionality.
 
-- [x] **tty**: POSIX compliant. Supports `-s` flag.
+- [x] **true**: **Level 5** - POSIX compliant.
 
-- [x] **yes**: Basic functionality.
+- [x] **tty**: **Level 5** - POSIX compliant. Supports `-s` flag.
+
+- [x] **yes**: **Level 2** - Basic functionality (High-performance buffer implementation).
