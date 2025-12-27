@@ -1,6 +1,4 @@
 # Wanabin
-Building /bin tools, one by one.
-
 A collection of POSIX-style core utilities (cat, pwd, etc.) re-implemented in C language.
 
 **Not yet fully compliant, but aiming for POSIX standards.**
