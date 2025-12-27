@@ -23,7 +23,11 @@ This list tracks the implementation status of each command using a 5-level matur
 
 - [x] **cat**: **Level 2** - Supports reading from files and stdin.
 
+- [x] **dirname**: **Level 2** - Handles trailing slashes and multiple slashes.
+
 - [x] **echo**: **Level 3** - Supports `-n` flag.
+
+- [x] **env**: **Level 1** - Lists environment variables using `envp`.
 
 - [x] **false**: **Level 5** - POSIX compliant.
 
@@ -44,5 +48,7 @@ This list tracks the implementation status of each command using a 5-level matur
 - [x] **tty**: **Level 5** - POSIX compliant. Supports `-s` flag.
 
 - [x] **uname**: **Level 1** - Basic system name output only.
+
+- [x] **whoami**: **Level 1** - Prints the effective user name.
 
 - [x] **yes**: **Level 2** - Basic functionality (High-performance buffer implementation).
