@@ -24,7 +24,7 @@ I'm writing this step by step to understand how things work under the hood.
 
 ## Status
 Development progress:
-- **Total commands planned:** 9 / 164
+- **Total commands planned:** 10 / 164
 - **POSIX-compliant commands:** 3 / 164
 
 For more details on each command, please refer to [src/README.md](src/README.md).
