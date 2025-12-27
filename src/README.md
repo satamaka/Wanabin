@@ -14,6 +14,10 @@
 
 - [x] **pwd**: Retrieves current directory path.
 
+- [x] **sleep**: Basic functionality.
+
 - [x] **true**: POSIX compliant. 
 
 - [x] **tty**: Basic functionality.
+
+- [x] **yes**: Basic functionality.
