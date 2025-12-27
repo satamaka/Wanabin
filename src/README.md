@@ -6,6 +6,8 @@
 
 - [x] **false**: POSIX compliant. 
 
+- [x] **hostname**: Basic functionality.
+
 - [x] **logname**: POSIX compliant. (Note: some known issues remain).
 
 - [ ] **ls**: TBD
