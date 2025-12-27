@@ -19,6 +19,8 @@ This list tracks the implementation status of each command using a 5-level matur
 
 ### Command List
 
+- [x] **basename**: **Level 1** - Basic filename extraction using strrchr.
+
 - [x] **cat**: **Level 2** - Supports reading from files and stdin.
 
 - [x] **echo**: **Level 3** - Supports `-n` flag.
@@ -40,5 +42,7 @@ This list tracks the implementation status of each command using a 5-level matur
 - [x] **true**: **Level 5** - POSIX compliant.
 
 - [x] **tty**: **Level 5** - POSIX compliant. Supports `-s` flag.
+
+- [x] **uname**: **Level 1** - Basic system name output only.
 
 - [x] **yes**: **Level 2** - Basic functionality (High-performance buffer implementation).
