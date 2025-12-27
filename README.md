@@ -1,5 +1,5 @@
 # Wanabin
-![Language: C](https://img.shields.io/badge/language-C-00599C.svg?logo=c) ![Language: C](https://img.shields.io/badge/language-C-00599C.svg?logo=c)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg) ![Language: C](https://img.shields.io/badge/language-C-00599C.svg?logo=c)
 
 A collection of POSIX-style core utilities (cat, pwd, etc.) re-implemented in C language.
 
