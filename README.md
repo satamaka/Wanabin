@@ -8,16 +8,17 @@ To compile all utilities at once, simply run :
 
 ```$ make```
 
-## Contribution
+# Contribution
 I'm building this project step-by-step to understand how things work under the hood! 🛠️
+While the code is still unrefined (apologies for the mess 😅), I would love to have you involved!
 
-While the code is still a bit unrefined and very much a work in progress (apologies for the mess 😅), contributions are more than welcome!
+- **How to Help**: Whether it's fixing a bug, adding a new POSIX command, or improving documentation, all help is welcome.
 
-- **Bug Reports & PRs**: Found a bug or want to add a new tool? Please open an Issue or submit a PR.
+- **Getting Started**: Please read our **[CONTRIBUTING.md](CONTRIBUTING.md)** for detailed guidelines and our development workflow.
 
-- **Getting Started**: For detailed contribution guidelines and a breakdown of the implementation status, please see **[src/README.md](src/README.md)**.
+- **Status Tracking**: To see which commands are ready or need work, check the **[Implementation Status](src/README.md)**.
 
-- **Code of Conduct**: Please be respectful. Harassment or insults will not be tolerated.
+Note: Please be respectful. Harassment or insults will not be tolerated.
 
 
 ## Philosophy
