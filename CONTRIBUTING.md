@@ -24,7 +24,9 @@ Clear code needs clear explanation. You can:
 - Improve README descriptions or fix typos.
 
 ### 4. Propose New Commands
-If you want to implement a POSIX command that is not yet listed as **Level 0** in `src/README.md`, go for it! Please ensure the command is part of the IEEE Std 1003.1 (POSIX) specification.
+If you want to implement a command that is not yet listed in `src/README.md`, feel free to start! 
+
+Don't worry about making it "perfect" or fully POSIX-compliant from the start. As long as it's a standard tool (like `whoami`, `cal`, etc.), your contribution is welcome. We can work together to refine it later!
 
 ### 5. Keep it Independent (No Dependencies)
 To maintain the simplicity and portability of each tool:
