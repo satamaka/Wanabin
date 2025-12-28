@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -O2
 
-TARGETS = basename cat dirname echo env false hostname logname pwd sleep true tty uname whoami yes
+TARGETS = basename cat cp dirname echo env false hostname logname mv pwd sleep true tty uname whoami yes
 
 all: $(TARGETS)
 
