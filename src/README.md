@@ -23,6 +23,8 @@ This list tracks the implementation status of each command using a 5-level matur
 
 - [x] **cat**: **Level 2** - Supports reading from files and stdin.
 
+- [x] **cp**: **Level 1** - Basic file-to-file copying using `fgetc` and `fputc`.
+
 - [x] **dirname**: **Level 2** - Handles trailing slashes and multiple slashes.
 
 - [x] **echo**: **Level 3** - Supports `-n` flag.
@@ -34,6 +36,8 @@ This list tracks the implementation status of each command using a 5-level matur
 - [x] **hostname**: **Level 2** - Basic functionality.
 
 - [x] **logname**: **Level 4** - Near-POSIX (Note: known issues with `getlogin()`).
+
+- [x] **mv**: **Level 1** - Renames files using the standard `rename()` function.
 
 - [ ] **ls**: **Level 0** - TBD.
 
