@@ -30,7 +30,7 @@ I'm writing this step by step to understand how things work under the hood.
 
 ## Status
 Development progress:
-- **Total commands planned:** 15
+- **Total commands planned:** 17
 - **POSIX-compliant commands:** 3
 
 For more details on each command, please refer to [src/README.md](src/README.md).
